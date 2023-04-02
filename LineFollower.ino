@@ -105,29 +105,11 @@ void PID() {
  int capt8 = digitalRead(c8);
  int capt9 = digitalRead(c9);
  int capt10 = digitalRead(c10);
- 
-
- 
- int error=0; //kznzt 75
- 
- ms = kp*error +kd*(error-lasterror);
- lasterror = error;
- if(lms > maxlms){
-  lms = maxlms;
- }if(lms < 0){
-  lms = 0;
- }if(rms < 0){
-  rms = 0;
- }if(rms > maxrms){
-  rms = maxrms;
- }
- 
-  analogWrite(enb,lms);
-  analogWrite(ena,rms);
-   if (capt2 ||capt1) {
+  
+ if (capt2 ||capt1) {
   left();
    }
-  else if  (capt3||capt4 || capt5 || capt6 || capt7 || capt8 ) {
+ else if  (capt3||capt4 || capt5 || capt6 || capt7 || capt8 ) {
   forward();
  }
    else if (   capt9|| capt10  ) {
