@@ -11,7 +11,6 @@ A well-documented, well-explained and versatile Line follower Robot that i made 
 ## Components
 1. [Arduino borad](https://github.com/cvzone/cvzone/blob/master/README.md) 
 
-
 ![Arduino uno](https://ce8dc832c.cloudimg.io/v7/_cdn_/CA/56/60/00/0/419244_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=24d4ccb4cea9fae38374e652ced53fe25cc43baa)
 
 2. [Hbridge] 
@@ -34,17 +33,20 @@ A well-documented, well-explained and versatile Line follower Robot that i made 
 
 ## Electrical design
 
-![image](https://user-images.githubusercontent.com/98516504/229362357-1f465591-aa56-4525-b2d0-f1d9a384d61e.png)
+![final circuit](https://user-images.githubusercontent.com/98516504/229364816-f57b52df-1a57-4f86-a237-5d92dffed488.png)
 
 ## Mechanical concept
 
-![image](https://user-images.githubusercontent.com/98516504/229362833-74c91047-9ee8-4afb-b13c-382bc213c99a.png)
 
-![image](https://user-images.githubusercontent.com/98516504/229362850-6fc7a10f-4243-497a-9593-70339d693360.png)
+![1](https://user-images.githubusercontent.com/98516504/229364824-9bd9ec65-8231-4f86-8fe8-a2dfc922196b.png)
 
-![image](https://user-images.githubusercontent.com/98516504/229362866-50ca1651-0cb2-4a2c-8a67-8e5dde1cdcbf.png)
+![2](https://user-images.githubusercontent.com/98516504/229364830-e8975364-5236-4da2-965f-bf3dbfa754a2.png)
 
+![2 png3](https://user-images.githubusercontent.com/98516504/229364834-68ba664d-4bc3-4667-97b9-9010478c1a6d.png)
 
+![5](https://user-images.githubusercontent.com/98516504/229364910-cc25796d-2884-4b88-9cf3-7e27a5833e3e.png)
+
+![Annotation 2022-04-22 203154](https://user-images.githubusercontent.com/98516504/229364919-7a2aaa47-da83-4d62-8dd3-07fb20428804.png)
 
 ## Feedback
 All feature requests, bugs, feedback, etc... are welcome. Just create an issue, and we'll look at it as soon as possible 😊
